@@ -1,0 +1,4 @@
+findAllTask()
+deleteTask(idTask)
+createTask(DTOtask)
+findTaskById(int id)
